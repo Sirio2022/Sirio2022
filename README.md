@@ -19,3 +19,6 @@ Me gusta programar, los videojuegos, la guitarra y estoy dispuesto a embarcarme 
 👉 MongoDB y Mongoose
 
 👉 PostgreSQL y Sequelize
+
+<h2>Correo personal:</h2>
+expedo360@outlook.com
