@@ -10,6 +10,10 @@ Me gusta programar, fan de los videojuegos y la guitarra, estoy dispuesto a apre
 
 👉 React
 
+👉 NextJs
+
+👉 Strapi
+
 👉 NodeJS
 
 👉 Redux
