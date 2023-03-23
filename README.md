@@ -8,9 +8,15 @@ Me gusta programar, fan de los videojuegos y la guitarra, estoy dispuesto a apre
 
 👉 Javascript
 
+👉 Html
+
+👉 Css
+
 👉 React
 
 👉 NextJs
+
+👉 Remix Run
 
 👉 Strapi
 
