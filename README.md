@@ -1,6 +1,6 @@
 Hola soy Juan Manuel Alvarez. Desarrollador FullStack graduado de Henry.
 
-Me gusta programar, fan de los videojuegos y la guitarra, estoy dispuesto a aprender día a día y embarcarme en este mundo inmenso que es la programación.
+Me gusta programar, fan de los videojuegos y la guitarra, estoy dispuesto a aprender día a día y trabajar en el universo de las TI.
 
 
 <h2>Tecnologías que manejo:</h2>
