@@ -6,7 +6,7 @@ Me gusta programar, fan de los videojuegos y la guitarra, estoy dispuesto a apre
 <h2>Tecnologías que manejo:</h2>
 
 
-👉 Javascript 👉 Html 👉 Css 👉 React 👉 ContextAPI 👉 Redux 👉 NextJs 👉 Remix Run 👉 Strapi 👉 NodeJS 👉 Express 👉 MongoDB y Mongoose 👉 PostgreSQL y Sequelize
+👉 Javascript 👉 Html 👉 Css 👉 React 👉 ContextAPI 👉 Redux 👉 NextJs 👉 Astro 👉 Strapi 👉 NodeJS 👉 Express 👉 MongoDB y Mongoose 👉 PostgreSQL y Sequelize
 
 <h2>Correo personal:</h2>
 expedo360@outlook.com
